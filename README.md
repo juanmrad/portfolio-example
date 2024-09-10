@@ -4,4 +4,6 @@ This is my example portfolio repo.
 
 # About me:
 
-I am juan mrad. I love to code.
+I am Juan Mrad. I love to code.
+
+I also love building legos and gundams
